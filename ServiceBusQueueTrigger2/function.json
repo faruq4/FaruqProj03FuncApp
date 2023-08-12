@@ -6,7 +6,7 @@
       "type": "serviceBusTrigger",
       "direction": "in",
       "queueName": "notificationqueue",
-      "connection": "BusConnection"
+      "connection": "faruqndproj03servicebus_SERVICEBUS"
     }
   ]
 }

@@ -24,7 +24,7 @@ def main(msg: func.ServiceBusMessage):
         attendees = cursor.fetchall()
 
         for attendee in attendees:
-            Mail('{}, {}, {}'.format({'admin@techconf.com'}, {attendee[2]}, {notification_query}))
+            Mail('{}, {}, {}'.format({'admin@faruqtechconf.com'}, {attendee[2]}, {notification_query}))
 
         notification_completed_date = datetime.utcnow()
 
