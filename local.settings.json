@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=faruqudcprjlab2stgact;AccountKey=Z74uH2x86nd+3sD8zGSsUuHipfWgd5vxqPoA9LADwyukGS6xRzY/HHST3vYLSMPY3OwXqals0uyw+AStRpdgSA==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=faruqndproj03storageact;AccountKey=jdQlpZYIzBrf634t0FjfCXFHhOPeUyNcH8fJIRFsb6sk7tQt9yHb5ZbSsSkSLG2FE6uZrNoNslzA+AStNt7V+Q==;EndpointSuffix=core.windows.net"
+  },
+  "ConnectionStrings": {},
+  "AzureWebJobsStorage": ""
+}
